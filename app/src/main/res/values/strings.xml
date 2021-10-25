@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Colores</string>
     <string name="welcome_text">Bienvenido a Android UCB</string>
+    <string name="red_button">Rojo</string>
+    <string name="white_button">Blanco</string>
+    <string name="color_text">Cambio de Colores</string>
 </resources>
